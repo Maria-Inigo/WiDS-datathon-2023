@@ -1,2 +1,5 @@
 # Datasets
 data/**
+
+# File types
+*.txt
